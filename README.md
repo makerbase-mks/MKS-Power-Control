@@ -7,7 +7,7 @@ MKS PWC can achieve power continued to play, automatically turning off after the
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Parameter
-- Ac input voltage:85v/ac-265v/ac
+- Ac input voltage:100v/ac-240v/ac
 - Logic input voltage:3.3v-5v
 - Support auto power off
 - Support power outage detection,achieve power continued to play
