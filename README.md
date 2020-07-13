@@ -12,6 +12,7 @@ MKS PWC can achieve power continued to play, automatically turning off after the
 - Support auto power off
 - Support power outage detection,achieve power continued to play
 - Work with:motherboard+mks tft series,or only mks robin nano/robin2
+- Support work with MKS Robin E3/E3D and use LCD12864 control
 
 # MKS-UPS12V-UPS24V
 MKS UPS 12v 24v module 3D Printer parts power outage detection and lift Z axis when power off to protect the model. The module lift z axis 20mm-200mm and so on
