@@ -1,18 +1,3 @@
-# MKS-PWC
-MKS PWC can achieve power continued to play, automatically turning off after the printing finished, the software control the power off, monitor the power status and other functions. It can help to achieve interactive printing, and to help in the cases like the unexpected power off or you have to leave during the printing, and other similar issues, considered to be one of the most useful features in 3D printers.
-
-## Related tutorials and Notice
-- User Manual.[click here](https://github.com/makerbase-mks/MKS-PWC/wiki/MKS-PWC-V2.0-User-Manual)
-- How to buy the MKS PWC.[click here](https://www.aliexpress.com/item/32853300039.html?spm=2114.12010612.8148356.3.fe6571d5adf8eB)
-- Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
-
-## Parameter
-- Ac input voltage:100v/ac-240v/ac
-- Logic input voltage:3.3v-5v
-- Support auto power off
-- Support power outage detection,achieve power continued to play
-- Work with:motherboard+mks tft series,or only mks robin nano/robin2
-
 # MKS-UPS12V-UPS24V
 MKS UPS 12v 24v module 3D Printer parts power outage detection and lift Z axis when power off to protect the model. The module lift z axis 20mm-200mm and so on
 
