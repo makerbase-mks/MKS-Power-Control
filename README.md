@@ -37,7 +37,13 @@ MKS UPS 12v 24v module 3D Printer parts power outage detection and lift Z axis w
 - How buy the MKS UPS12V or UPS24V. [click here](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-22324048160.17.61415bcejBKUlx&id=615967686876)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
-# Note
+## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
-- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook and GitHub and YouTube. Thank you!
-![](https://github.com/makerbase-mks/MKS-Robin-Nano/blob/master/hardware/Image/MKS_FGA.png)
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook/Twitter/Discord/Reddit/Youtube and Github. Thank you!
+- MKS Github: https://github.com/makerbase-mks  
+- MKS Facebook: https://www.facebook.com/Makerbase.mks/  
+- MKS Twitter: https://twitter.com/home?lang=en  
+- MKS Discord: https://discord.gg/4uar57NEyU
+- MKS Reddit: https://www.reddit.com/user/MAKERBASE-TEAM/ 
+
+![mks_link](https://user-images.githubusercontent.com/12979070/149612651-5640facc-ac64-44c9-932e-df5c48d32ad4.png)
